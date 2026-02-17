@@ -31,3 +31,7 @@
 - Place registered finger on sensor
 - Door unlocks for 3 seconds
 - Red LED indicates error, green for success
+
+## Adding New Users
+1. Open Serial Monitor (9600 baud)
+
