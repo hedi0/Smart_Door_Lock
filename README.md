@@ -36,3 +36,4 @@
 1. Open Serial Monitor (9600 baud)
 2. Send '1' to enter enrollment mode
 
+3. Follow prompts to add fingerprint
