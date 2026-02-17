@@ -20,3 +20,6 @@
 | Red LED | Pin 10 |
 
 ## Setup Instructions
+1. Install required libraries:
+   - Adafruit Fingerprint Library
+   
