@@ -23,3 +23,4 @@
 1. Install required libraries:
    - Adafruit Fingerprint Library
    
+- SoftwareSerial
