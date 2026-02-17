@@ -9,3 +9,4 @@
 - 5V Power Supply
 - 12V Power Supply
 - LEDs and Resistors
+- Jumper Wires
