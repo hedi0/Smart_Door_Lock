@@ -3,4 +3,5 @@
 ## Hardware Required
 
 - Arduino Uno/Nano
-- R307 Finger
+- R307 Fingerprint Sensor
+- 12V Soleno
