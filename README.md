@@ -24,3 +24,5 @@
    - Adafruit Fingerprint Library
    - SoftwareSerial
 2. Upload code to Arduino
+3. Enroll fingerprints using serial monitor
+4. Test the system
