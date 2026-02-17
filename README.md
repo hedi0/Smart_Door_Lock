@@ -11,4 +11,5 @@
 - Jumper Wires
 
 ## Wiring Diagram
-| Component
+| Component | Arduino Pin |
+|---------
