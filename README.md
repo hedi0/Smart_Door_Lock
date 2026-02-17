@@ -4,4 +4,5 @@
 
 - Arduino Uno/Nano
 - R307 Fingerprint Sensor
-- 12V Soleno
+- 12V Solenoid Lock
+- Relay
