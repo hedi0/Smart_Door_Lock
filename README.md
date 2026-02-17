@@ -1,7 +1,6 @@
 # Smart Door Lock with Fingerprint Sensor
 
 ## Hardware Required
-
 - Arduino Uno/Nano
 - R307 Fingerprint Sensor
 - 12V Solenoid Lock
@@ -10,3 +9,6 @@
 - 12V Power Supply
 - LEDs and Resistors
 - Jumper Wires
+
+## Wiring Diagram
+| Component
