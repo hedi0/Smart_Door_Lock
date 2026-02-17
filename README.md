@@ -8,4 +8,4 @@
 - Relay Module
 - 5V Power Supply
 - 12V Power Supply
-- LE
+- LEDs and Resistors
