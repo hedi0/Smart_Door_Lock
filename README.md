@@ -22,5 +22,5 @@
 ## Setup Instructions
 1. Install required libraries:
    - Adafruit Fingerprint Library
-   
-- SoftwareSerial
+   - SoftwareSerial
+2. Upload code to Arduino
