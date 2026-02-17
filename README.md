@@ -19,3 +19,4 @@
 | Green LED | Pin 9 |
 | Red LED | Pin 10 |
 
+## Setup Instructions
