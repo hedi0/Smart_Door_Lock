@@ -6,4 +6,5 @@
 - R307 Fingerprint Sensor
 - 12V Solenoid Lock
 - Relay Module
-- 5V 
+- 5V Power Supply
+- 12
