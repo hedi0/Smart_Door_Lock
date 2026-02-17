@@ -14,3 +14,4 @@
 | Component | Arduino Pin |
 |-----------|-------------|
 | Fingerprint RX | Pin 2 |
+| Fingerprint TX | Pin 3 |
