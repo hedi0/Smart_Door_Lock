@@ -34,4 +34,5 @@
 
 ## Adding New Users
 1. Open Serial Monitor (9600 baud)
+2. Send '1' to enter enrollment mode
 
