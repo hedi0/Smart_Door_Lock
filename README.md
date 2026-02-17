@@ -12,4 +12,5 @@
 
 ## Wiring Diagram
 | Component | Arduino Pin |
-|---------
+|-----------|-------------|
+| Fingerprint RX | Pin 2 |
