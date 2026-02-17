@@ -7,4 +7,5 @@
 - 12V Solenoid Lock
 - Relay Module
 - 5V Power Supply
-- 12
+- 12V Power Supply
+- LE
