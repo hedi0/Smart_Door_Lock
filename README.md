@@ -16,3 +16,4 @@
 | Fingerprint RX | Pin 2 |
 | Fingerprint TX | Pin 3 |
 | Solenoid Relay | Pin 8 |
+| Green LED | Pin 9 |
