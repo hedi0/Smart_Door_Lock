@@ -15,3 +15,6 @@
 |-----------|-------------|
 | Fingerprint RX | Pin 2 |
 | Fingerprint TX | Pin 3 |
+
+2. Send '1' to enter enrollment mode
+3. Follow prompts to add fingerprint
