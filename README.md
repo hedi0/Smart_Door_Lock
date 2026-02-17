@@ -29,3 +29,5 @@
 
 ## Usage
 - Place registered finger on sensor
+- Door unlocks for 3 seconds
+- Red LED indicates error, green for success
