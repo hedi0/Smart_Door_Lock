@@ -7,3 +7,5 @@
 
 // Software serial for fingerprint sensor
 #include <SoftwareSerial.h>
+SoftwareSerial mySerial(2, 3); // RX, TX
+Adafruit_Fingerprint finger = Adafruit_Fingerprint(&mySerial);
