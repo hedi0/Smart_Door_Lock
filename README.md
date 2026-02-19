@@ -153,3 +153,6 @@ We welcome contributions to the Smart Door Lock project! Please follow these gui
 5.  Provide a detailed description of your changes, including the problem it solves and how it was implemented.
 6.  Be responsive to feedback during the review process.
 
+### Testing Requirements
+
+*   If applicable, write unit tests for new features or bug fixes.
