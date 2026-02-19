@@ -42,3 +42,20 @@ sudo dnf install @development-tools gcc-c++ make
 brew install gcc make
 ```
 
+### Manual Installation
+
+1.  **Clone the repository**:
+    Start by cloning the `Smart_Door_Lock` repository to your local machine using Git:
+
+    ```bash
+    git clone https://github.com/hedi0/Smart_Door_Lock.git
+    cd Smart_Door_Lock
+    ```
+
+2.  **Navigate to the `codes` directory**:
+    The main C++ source files are located in the `codes` directory.
+
+    ```bash
+    cd codes
+    ```
+
