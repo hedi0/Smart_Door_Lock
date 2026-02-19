@@ -38,4 +38,8 @@ void loop() {
   
   delay(50);
 }
+int getFingerprintID() {
+  uint8_t p = finger.getImage();
+  if (p != FINGERPRINT_OK) return -1;
 
+  
