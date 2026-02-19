@@ -19,4 +19,7 @@ void setup() {
   // Initialize fingerprint sensor
   finger.begin(57600);
   if (finger.verifyPassword()) {
+    Serial.println("Fingerprint sensor found!");
+  } else {
+    Serial.println("Sensor not found - check wiring");
    
