@@ -12,3 +12,6 @@ Adafruit_Fingerprint finger = Adafruit_Fingerprint(&mySerial);
 
 void setup() {
   Serial.begin(9600);
+  pinMode(SOLENOID_PIN, OUTPUT);
+  pinMode(GREEN_LED, OUTPUT);
+  
