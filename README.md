@@ -1,134 +1,44 @@
-# 🔐 Smart Door Lock with Fingerprint Sensor
+# Smart Door Lock 🔒
 
-A DIY Arduino-based smart door lock system that uses fingerprint authentication for secure access control.
+An intelligent, secure, and user-friendly door locking system powered by C++.
 
----
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license/Smart_Door_Lock-green)
+![Stars](https://img.shields.io/github/stars/hedi0/Smart_Door_Lock?style=social)
+![Forks](https://img.shields.io/github/forks/hedi0/Smart_Door_Lock?style=social)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
 
-## 📌 Project Overview
-
-This project implements a biometric door locking system using:
-
-- Arduino Uno / Nano
-- R307 Fingerprint Sensor
-- 12V Solenoid Door Lock
-- Relay Module
-- Status LEDs (Access Granted / Denied)
-
-The system unlocks the door only when a registered fingerprint is detected.
+![Smart Door Lock Preview](/preview_example.png)
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- Fingerprint-based authentication
-- Multiple user support (stored in sensor memory)
-- Visual feedback (Green LED = Access Granted, Red LED = Access Denied)
-- Auto-lock after configurable timeout
-- Serial monitor debugging
-- Simple and expandable design
+The Smart Door Lock project offers a robust solution for modern access control, focusing on security, convenience, and expandability.
 
----
+*   🔐 **Secure Access Control**: Implements strong authentication mechanisms to ensure only authorized users can access the premises.
+*   🔔 **Real-time Notifications**: Provides instant alerts for access events, unauthorized attempts, or system status changes.
+*   ⚙️ **Modular Design**: Built with a flexible architecture, allowing for easy integration with various hardware components and future expansions.
+*   ⚡ **Efficient Performance**: Optimized C++ code ensures quick response times and reliable operation, even in resource-constrained environments.
+*   🛠️ **Easy Configuration**: Simple setup and configuration process to get your smart lock up and running with minimal effort.
 
-## 🛠️ Hardware Requirements
+## 🚀 Installation Guide
 
-| Component | Quantity |
-|------------|----------|
-| Arduino Uno/Nano | 1 |
-| R307 Fingerprint Sensor | 1 |
-| 12V Solenoid Door Lock | 1 |
-| 5V Relay Module | 1 |
-| Green LED | 1 |
-| Red LED | 1 |
-| 220Ω Resistors | 2 |
-| Jumper Wires | Several |
-| External 12V Power Supply | 1 |
+Follow these steps to set up and run the Smart Door Lock project on your local machine.
 
----
+### Prerequisites
 
-## 🔌 Wiring Connections
+Ensure you have a C++ compiler (like `g++`) and `make` installed on your system.
 
-| Component | Arduino Pin |
-|------------|-------------|
-| Fingerprint TX | Pin 2 |
-| Fingerprint RX | Pin 3 |
-| Solenoid Relay | Pin 8 |
-| Green LED | Pin 9 |
-| Red LED | Pin 10 |
+```bash
+# For Debian/Ubuntu
+sudo apt update
+sudo apt install build-essential g++ make
 
-> ⚠️ Use an external 12V supply for the solenoid lock.
+# For Fedora
+sudo dnf install @development-tools gcc-c++ make
 
----
+# For macOS (with Homebrew)
+brew install gcc make
+```
 
-## 📦 Required Libraries
-
-Install using Arduino Library Manager:
-
-- `Adafruit Fingerprint Sensor Library`
-- `SoftwareSerial`
-
----
-
-## ⚙️ Installation Steps
-
-1. Connect all components according to the wiring table.
-2. Install required libraries.
-3. Open `Smart_Door_Lock.ino` in Arduino IDE.
-4. Select correct Board and COM Port.
-5. Upload the code.
-6. Open Serial Monitor (9600 baud).
-
----
-
-## 👤 Enrolling Fingerprints
-
-To enroll new fingerprints:
-
-1. Use the official Adafruit fingerprint enrollment example.
-2. Enroll users into sensor memory.
-3. The system will automatically recognize stored IDs.
-
----
-
-## 🔄 System Workflow
-
-1. User places finger on sensor.
-2. Sensor scans and matches fingerprint.
-3. If match found:
-   - Green LED turns ON
-   - Solenoid unlocks for 3 seconds
-4. If no match:
-   - Red LED blinks
-   - Access denied
-
----
-
-## 🔒 Security Notes
-
-- Fingerprint templates are stored inside the sensor.
-- Consider adding:
-  - LCD display
-  - Keypad backup password
-  - Bluetooth/WiFi remote unlock
-  - Access logging
-
----
-
-## 📈 Future Improvements
-
-- Add keypad fallback authentication
-- Add mobile app control
-- Add EEPROM-based access logging
-- Add buzzer feedback
-- Add OLED display status
-
----
-
-## 🧠 Author
-
-Developed by Hedi
-
----
-
-## 📜 License
-
-This project is open-source and free to use for educational purposes.
