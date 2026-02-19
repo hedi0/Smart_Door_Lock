@@ -33,4 +33,9 @@ void loop() {
     // Valid fingerprint detected
     openDoor();
     Serial.print("Access granted to user #");
-    
+    Serial.println(fingerprintID);
+  }
+  
+  delay(50);
+}
+
