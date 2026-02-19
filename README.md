@@ -144,3 +144,9 @@ We welcome contributions to the Smart Door Lock project! Please follow these gui
 *   **`bugfix/<issue-description>`**: For bug fixes (e.g., `bugfix/pin-validation-error`).
 *   **`hotfix/<issue-description>`**: For critical production fixes.
 
+### Pull Request Process
+
+1.  **Fork** the repository and create your feature or bugfix branch from `develop`.
+2.  **Commit** your changes with clear and concise commit messages.
+3.  Ensure your code **compiles** without warnings and passes any existing tests.
+4.  **Open a Pull Request** against the `develop` branch.
