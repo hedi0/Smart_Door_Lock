@@ -90,3 +90,20 @@ To start the smart door lock system:
 
 Upon execution, the system might prompt you for actions or display its status.
 
+### Common Use Cases
+
+*   **Entering a PIN**: If the system supports PIN-based access, you might interact via the console:
+    ```
+    Enter PIN: ****
+    Access Granted!
+    ```
+*   **Monitoring Status**: The system could continuously output its status or log events:
+    ```
+    [INFO] Door is currently locked.
+    [EVENT] User 'hedi0' attempted access at 2023-10-27 10:30:00.
+    [WARNING] Unauthorized access attempt detected!
+    ```
+
+![Usage Screenshot](/usage_example.png)
+_Example of console output during system operation._
+
