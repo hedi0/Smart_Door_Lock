@@ -107,3 +107,22 @@ Upon execution, the system might prompt you for actions or display its status.
 ![Usage Screenshot](/usage_example.png)
 _Example of console output during system operation._
 
+## 🗺️ Project Roadmap
+
+We are continuously working to enhance the Smart Door Lock with new features and improvements. Here's what's planned for the future:
+
+*   **v1.1.0 - Enhanced Security & Logging**:
+    *   Implementation of advanced encryption for communication.
+    *   Detailed event logging with timestamping and user IDs.
+    *   Brute-force attack detection and lockout mechanisms.
+*   **v1.2.0 - Remote Management Interface**:
+    *   Development of a simple web-based or command-line interface for remote door control.
+    *   User management features (add/remove users, change PINs).
+*   **v1.3.0 - Biometric Integration**:
+    *   Support for fingerprint or facial recognition modules.
+    *   Integration with popular IoT platforms for smart home ecosystems.
+*   **Future Goals**:
+    *   Battery management and power-saving modes.
+    *   Integration with voice assistants (e.g., Alexa, Google Assistant).
+    *   Comprehensive unit and integration test suite.
+
