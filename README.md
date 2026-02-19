@@ -59,3 +59,21 @@ brew install gcc make
     cd codes
     ```
 
+3.  **Compile the source code**:
+    Use your C++ compiler to compile the project. Assuming a simple `main.cpp` and other `.cpp` files:
+
+    ```bash
+    g++ -o smart_lock main.cpp -Wall -Wextra # Add other .cpp files if necessary, e.g., g++ -o smart_lock main.cpp device.cpp user_manager.cpp -Wall -Wextra
+    # Alternatively, if a Makefile is provided:
+    # make
+    ```
+    *Note: Adjust `main.cpp` and other source files as per the actual project structure within the `codes` directory.*
+
+4.  **Environment Configuration (Optional)**:
+    If your project requires specific environment variables or hardware drivers, ensure they are properly configured. For example, if interacting with specific GPIO pins or external sensors, you might need to set up permissions or install libraries.
+
+    ```bash
+    # Example: Granting executable permissions
+    chmod +x smart_lock
+    ```
+
