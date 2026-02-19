@@ -76,4 +76,17 @@ brew install gcc make
     # Example: Granting executable permissions
     chmod +x smart_lock
     ```
+## 💡 Usage Examples
+
+Once compiled, you can run the `smart_lock` executable. The exact interaction will depend on the project's internal logic (e.g., command-line input, sensor simulation).
+
+### Basic Execution
+
+To start the smart door lock system:
+
+```bash
+./smart_lock
+```
+
+Upon execution, the system might prompt you for actions or display its status.
 
