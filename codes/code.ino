@@ -53,4 +53,5 @@ void openDoor() {
   digitalWrite(GREEN_LED, HIGH);
   delay(3000); // Keep unlocked for 3 seconds
   digitalWrite(SOLENOID_PIN, LOW);
-  
+  digitalWrite(GREEN_LED, LOW);
+}
