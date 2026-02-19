@@ -27,4 +27,7 @@ void setup() {
 }
 
 void loop() {
+  int fingerprintID = getFingerprintID();
   
+  if (fingerprintID >= 0) {
+   
