@@ -22,4 +22,9 @@ void setup() {
     Serial.println("Fingerprint sensor found!");
   } else {
     Serial.println("Sensor not found - check wiring");
-   
+    while(1);
+  }
+}
+
+void loop() {
+  
