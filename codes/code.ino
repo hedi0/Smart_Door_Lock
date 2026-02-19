@@ -17,4 +17,6 @@ void setup() {
   pinMode(RED_LED, OUTPUT);
   
   // Initialize fingerprint sensor
-  
+  finger.begin(57600);
+  if (finger.verifyPassword()) {
+   
