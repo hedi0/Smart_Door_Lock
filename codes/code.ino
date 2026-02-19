@@ -51,4 +51,6 @@ int getFingerprintID() {
 void openDoor() {
   digitalWrite(SOLENOID_PIN, HIGH);
   digitalWrite(GREEN_LED, HIGH);
-  delay(3000);
+  delay(3000); // Keep unlocked for 3 seconds
+  digitalWrite(SOLENOID_PIN, LOW);
+  
