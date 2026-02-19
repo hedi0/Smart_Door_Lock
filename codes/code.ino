@@ -48,4 +48,6 @@ int getFingerprintID() {
 
   return finger.fingerID;
 }
-
+void openDoor() {
+  digitalWrite(SOLENOID_PIN, HIGH);
+ 
