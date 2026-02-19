@@ -50,4 +50,5 @@ int getFingerprintID() {
 }
 void openDoor() {
   digitalWrite(SOLENOID_PIN, HIGH);
- 
+  digitalWrite(GREEN_LED, HIGH);
+  delay(3000);
