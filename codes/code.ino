@@ -30,4 +30,7 @@ void loop() {
   int fingerprintID = getFingerprintID();
   
   if (fingerprintID >= 0) {
-   
+    // Valid fingerprint detected
+    openDoor();
+    Serial.print("Access granted to user #");
+    
