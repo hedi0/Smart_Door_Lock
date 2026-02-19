@@ -14,4 +14,7 @@ void setup() {
   Serial.begin(9600);
   pinMode(SOLENOID_PIN, OUTPUT);
   pinMode(GREEN_LED, OUTPUT);
+  pinMode(RED_LED, OUTPUT);
+  
+  // Initialize fingerprint sensor
   
