@@ -126,3 +126,13 @@ We are continuously working to enhance the Smart Door Lock with new features and
     *   Integration with voice assistants (e.g., Alexa, Google Assistant).
     *   Comprehensive unit and integration test suite.
 
+## 🤝 Contribution Guidelines
+
+We welcome contributions to the Smart Door Lock project! Please follow these guidelines to ensure a smooth collaboration.
+
+### Code Style
+
+*   Adhere to a consistent C++ coding style, similar to the [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) or existing codebase practices.
+*   Use clear, descriptive variable and function names.
+*   Comment your code thoroughly, especially for complex logic.
+
