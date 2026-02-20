@@ -146,8 +146,7 @@ We welcome c to ensure a smooth collaboration.
 ### Pull Request Process
 
 1.  **Fork** the repository and create your fe  **Coes sses any existing tests.
-4.  **Open a Pull Request** against the `develop` branch.
-5.  Provide a detailed description of your changes, including the problem it s
+4.  Provide a detailed description of your changes, including the problem it s
 
 
 
