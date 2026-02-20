@@ -140,9 +140,7 @@ We welcome c to ensure a smooth collaboration.
 
 *   **`main`**: The stable production branch.
 *   **`develop`**: The integration branch for new features.
-*   **`feature/<fix/pin-validation-error`).
-*   **`hotfix/<issue-description>`**:   
-
+*   **`feature/<fix/pin-validation-error`
 
 
 
