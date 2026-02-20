@@ -137,7 +137,7 @@ We welcome c to ensure a smooth collaboration.
 *   Comment your code 
 
 ### Branch Naming Conventions
-*   **`develop`**: The integration branch for new feature
+* 
 
 
 
