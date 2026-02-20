@@ -126,9 +126,7 @@ We are continuously working to enhance the Smart Door Lock with new features and
     *   Integration with voice assistants (e.g., Alexa, Google Assistant).
     *   Comprehensive unit and integration test suite.
 
-## 🤝 Contribution Guidelines
-
-We we criptive 
+## 🤝
 
 
 
