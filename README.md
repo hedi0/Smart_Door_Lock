@@ -138,7 +138,7 @@ We welcome c to ensure a smooth collaboration.
 
 ### Branch Naming Conventions
 
-*   **`main`**: The stable production branch.
+
 *   **`develop`**: The integration branch for new features.
 *   **`feature/<fix/pin-validation-error`
 
