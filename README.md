@@ -134,7 +134,7 @@ We welcome c to ensure a smooth collaboration.
 
 *   Adhere to a consistent C++ coding style, similar to the [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) or existing codebase practices.
 *   Use clear, descriptive variable and function names.
-*   Comment your code thoroughly, especially for complex logic.
+*   Comment your code 
 
 ### Branch Naming Conventions
 
