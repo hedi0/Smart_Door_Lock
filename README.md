@@ -128,7 +128,7 @@ We are continuously working to enhance the Smart Door Lock with new features and
 
 ## 🤝 Contribution Guidelines
 
-We we C++ Style Guide](https://google.github.   Use clear, descriptive 
+We we criptive 
 
 
 
