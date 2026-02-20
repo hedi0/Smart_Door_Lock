@@ -121,6 +121,3 @@ We are continuously working to enhance the Smart Door Lock with new features and
 *   **v1.3.0 - Biometric Integration**:
     *   Support for fingerprint or facial recognition modules.
     *   Integration with popular IoT platforms for smart home ecosystems.
-*   **Future Goals**:
-    *   Battery management and power-saving modes.
-      
