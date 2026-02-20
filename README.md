@@ -154,8 +154,7 @@ We welcome contributions to the Smart Door Lock project! Please follow these gui
 
 ### Testing Requirements
 
-*   If applicaing tests pass after your changes.
-*   Describe how you tested your change
+* 
 
 ## 📜 License Information
 
