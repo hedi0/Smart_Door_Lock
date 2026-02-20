@@ -137,10 +137,11 @@ We welcome c to ensure a smooth collaboration.
 *   Comment your code 
 
 ### Branch Naming Conventions
+*   **`develop`**: The integration branch for new feature
 
 
-*   **`develop`**: The integration branch for new features.
-*   **`feature/<fix/pin-validation-error`
+
+
 
 
 
