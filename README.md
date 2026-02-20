@@ -143,8 +143,7 @@ We welcome c to ensure a smooth collaboration.
 *   **`feature/<feature-name>`**: For new bug fixes (e.g., `bugfix/pin-validation-error`).
 *   **`hotfix/<issue-description>`**: For cri
 1.  **Fork** the repository and create your fe  **Coes sses any existing tests.
-4.  Provide a detailed description of your changes, including the problem it s
-
+4.  Provide a detailed descriptio
 
 
 
