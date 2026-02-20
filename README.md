@@ -140,7 +140,7 @@ We welcome c to ensure a smooth collaboration.
 
 *   **`main`**: The stable production branch.
 *   **`develop`**: The integration branch for new features.
-*   **`feature/<feature-name>`**: For new bug fixes (e.g., `bugfix/pin-validation-error`).
+*   **`feature/<fix/pin-validation-error`).
 *   **`hotfix/<issue-description>`**:   
 
 
