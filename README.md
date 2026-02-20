@@ -156,11 +156,9 @@ We welcome contributions to the Smart Door Lock project! Please follow these gui
 ### Testing Requirements
 
 *   If applicaing tests pass after your changes.
-*   Describe how you tested your changes in the Pull Request.
+*   Describe how you tested your change
 
 ## 📜 License Information
 
-This project is licensed under the **Apache License 2.0**.
 
-You can find t
 
