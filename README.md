@@ -123,4 +123,4 @@ We are continuously working to enhance the Smart Door Lock with new features and
     *   Integration with popular IoT platforms for smart home ecosystems.
 *   **Future Goals**:
     *   Battery management and power-saving modes.
-    *   Integration with voice assistants
+      
