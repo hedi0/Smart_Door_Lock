@@ -150,13 +150,10 @@ We welcome c to ensure a smooth collaboration.
 3.  Ensure your code **compiles** without warnings and passes any existing tests.
 4.  **Open a Pull Request** against the `develop` branch.
 5.  Provide a detailed description of your changes, including the problem it solves and how it was implemented.
-6.  Be responsive to feedback during the review process.
+6.  Be responsive to feedback during the reviements
 
-### Testing Requirements
 
-* 
 
-## 📜 License Information
 
 
 
