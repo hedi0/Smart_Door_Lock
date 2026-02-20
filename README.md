@@ -128,7 +128,7 @@ We are continuously working to enhance the Smart Door Lock with new features and
 
 ## 🤝 Contribution Guidelines
 
-We welcome contributions to the Smart Door Lock project! Please follow these guidelines to ensure a smooth collaboration.
+We welcome c to ensure a smooth collaboration.
 
 ### Code Style
 
