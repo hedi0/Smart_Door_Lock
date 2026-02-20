@@ -140,8 +140,7 @@ We welcome contributions to the Smart Door Lock project! Please follow these gui
 
 *   **`main`**: The stable production branch.
 *   **`develop`**: The integration branch for new features.
-*   **`feature/<feature-name>`**: For new features (e.g., `feature/biometric-auth`).
-*   **`bugfix/<issue-description>`**: For bug fixes (e.g., `bugfix/pin-validation-error`).
+*   **`feature/<feature-name>`**: For new bug fixes (e.g., `bugfix/pin-validation-error`).
 *   **`hotfix/<issue-description>`**: For critical production fixes.
 
 ### Pull Request Process
