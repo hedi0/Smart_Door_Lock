@@ -129,8 +129,7 @@ We are continuously working to enhance the Smart Door Lock with new features and
 ## 🤝 Contribution Guidelines
 
 We we
-*   Adhere to a consistent C++ coding style, similar to the [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) or existing codebase practices.
-*   Use clear, descriptive var
+*   Adhere to a consistent C++ coding style, similar to the [Google C++ Style Guide](https://google.github.   Use clear, descriptive var
 
 
 
