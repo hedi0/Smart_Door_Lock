@@ -163,5 +163,5 @@ We welcome contributions to the Smart Door Lock project! Please follow these gui
 
 This project is licensed under the **Apache License 2.0**.
 
-You can find the full text of the license in the [LICENSE](LICENSE) file in the root of this repository.
+You can find t
 
