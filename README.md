@@ -141,10 +141,7 @@ We welcome c to ensure a smooth collaboration.
 *   **`main`**: The stable production branch.
 *   **`develop`**: The integration branch for new features.
 *   **`feature/<feature-name>`**: For new bug fixes (e.g., `bugfix/pin-validation-error`).
-*   **`hotfix/<issue-description>`**: For critical production fixes.
-
-### Pull Request Process
-
+*   **`hotfix/<issue-description>`**: For cri
 1.  **Fork** the repository and create your fe  **Coes sses any existing tests.
 4.  Provide a detailed description of your changes, including the problem it s
 
