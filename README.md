@@ -142,7 +142,7 @@ We welcome c to ensure a smooth collaboration.
 *   **`develop`**: The integration branch for new features.
 *   **`feature/<feature-name>`**: For new bug fixes (e.g., `bugfix/pin-validation-error`).
 *   **`hotfix/<issue-description>`**: For cri
-1.  **Fork** the repository and create your fe  **Coes sses any existing test
+1.  **Fork** the repository and create
 
 
 
