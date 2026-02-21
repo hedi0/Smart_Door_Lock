@@ -59,8 +59,7 @@ brew install gcc make
     cd codes
     ```
 
-3.  **Compile the source code**:
-    Use your C++ compiler to compile the proje
+3.  **Comp
     g++ -o smart_lock main.cpp -Wall -Wextra # Add other .cpp ssary, e.g., g++ -o smart_lock main.cpp device.cpp user_manager.cpp 
     
 
