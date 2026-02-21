@@ -104,13 +104,12 @@ Upon execution, the system might prompt you for actions or display its status.
     [WARNING] Unauthorized access attempt detected!
     ```
 
-![Usage Screenshot](/usage_example.png)
-_Example of console output during system operat
-
-We are continuously working to enhance twith new features and improvements. Here's what's planned for the fu
-*   **v1.1.0 - Enhanced Security & Logging**:
-    *   Implementation of advanced encryption for comm
-    *   Detailed event logging with
+![Usage Screenhot](/usage_example.png)
+_Example onsole output during system operat
+We are continuoslyorkinto enhance twiw features and improvements. Here's what's planned for the fu
+*   **v.0 - Encd Secuity & Logg**:
+    *   Implementation ofadvanced encrypion for comm
+    *   Detailed eventggin
 
 
 
