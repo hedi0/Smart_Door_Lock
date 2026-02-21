@@ -67,10 +67,7 @@ brew install gcc make
     # Alternatively, if a Makefile is provided:
     # make
     ```
-    *Note: Adjust `main.cpp` and other source files as per the actual project structure within the `codes` directory.*
-
-4.  **Environment   configured. For example, if inter
-
+    *Note: Adjust `main.cpp` and other source files as per the actual p
 
 
 
