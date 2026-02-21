@@ -65,9 +65,7 @@ brew install gcc make
     ```bash
     g++ -o smart_lock main.cpp -Wall -Wextra # Add other .cpp files if necessary, e.g., g++ -o smart_lock main.cpp device.cpp user_manager.cpp -Wall -Wextra
     # Alternatively, if a Makefile is provided:
-    # make
-    ```
-    *Note: Adjust `main.cpp` and other source files as per the actual p
+    
 
 
 
