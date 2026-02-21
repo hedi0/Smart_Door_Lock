@@ -97,11 +97,8 @@ Upon execution, the system might prompt you for actions or display its status.
     Enter PIN: ****
     Access Granted!
     ```
-*   **Monitoring Status**: The system could continuously output its status or log events:
-    ```
-    [INFO] Door is currently locked.
-    [EVENT] User 'hedi0' attempted access at 2023-10-27 10:30:00.
-    [W
+*   **Monitoring Status**: The system could continuously output its status or 
+
 
 
 
