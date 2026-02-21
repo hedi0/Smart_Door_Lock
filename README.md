@@ -49,10 +49,7 @@ brew install gcc make
 
     ```bash
     git clone https://github.com/hedi0/Smart_Door_Lock.git
-    cd Smart_Door_Lock
-    ```
-
-2.  **Navigate to the `codes` directory**:
+    cd Sm:
     The main C++ 
 
 
