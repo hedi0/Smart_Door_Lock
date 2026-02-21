@@ -93,11 +93,7 @@ Upon execution, the system might prompt you for actions or display its status.
 ### Common Use Cases
 
 *   **Entering a PIN**: If the system supports PIN-based access, you might interact via the console:
-    ```
-    Enter PIN: ****
-    Access Granted!
-    ```
-*   **Monitoring Status**: The 
+    ``
 
 
 
