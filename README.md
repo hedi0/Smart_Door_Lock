@@ -105,14 +105,12 @@ Upon execution, the system might prompt you for actions or display its status.
     ```
 
 ![Usage Screenshot](/usage_example.png)
-_Example of console output during system operation._
+_Example of console output during system operat
 
-We are continuously working to enhance the Smart Door Lock with new features and improvements. Here's what's planned for the future:
-
+We are continuously working to enhance the Smart Door Lock with new features and improvements. Here's what's planned for the fu
 *   **v1.1.0 - Enhanced Security & Logging**:
     *   Implementation of advanced encryption for communication.
-    *   Detailed event logging with timestamping and user IDs.
-    *   Brute-f
+    *   Detailed event logging with
 
 
 
