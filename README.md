@@ -47,12 +47,7 @@ brew install gcc make
 1.  **Clone the repository**:
     Start by cloning the `Smart_Door_Lock` repository to your local machine using Git:
 
-    ```bash
-    git clone https://github.com/hedi0/Smart_Door_Lock.git
-    cd Sm:
-    The main C++ 
-
-
+    ```
 
 
 
