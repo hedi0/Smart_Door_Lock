@@ -70,8 +70,7 @@ brew install gcc make
     *Note: Adjust `main.cpp` and other source files as per the actual project structure within the `codes` directory.*
 
 4.  **Environment Configuration (Optional)**:
-    If your project requires specific environment variables or hardware drivers, ensure they are properly configured. For example, if interacting with specific GPIO pins or external sensors, you might need to 
-
+    If your project requires specific environment variables or hardware drivers, ensure they are properly configured. For example, if interact
 
 
 
