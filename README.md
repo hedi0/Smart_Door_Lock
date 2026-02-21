@@ -53,11 +53,7 @@ brew install gcc make
     ```
 
 2.  **Navigate to the `codes` directory**:
-    The main C++ source files are located in the `codes` directory.
-
-    ```bash
-    cd codes
-
+    The main C++ 
 
 
 
