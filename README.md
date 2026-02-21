@@ -115,7 +115,7 @@ We are continuously working to enhance the Smart Door Lock with new features and
     *   Brute-force attack detection and lockout mechanisms.
 *   **v1.2.0 - Remote Management Interface**:
     *   Development of a ommand-line interface for remote door control.
-    *   User management features (remove users, change PINs).
+    *   User management features
 *   **v1.3.0 - Biometric Integration*
 
 
