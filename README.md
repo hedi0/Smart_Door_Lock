@@ -106,10 +106,7 @@ Upon execution, the system might prompt you for actions or display its status.
 
 ![Usage Screenhot](/usage_example.png)
 _Example onsole output during system operat
-We are continuoslyorkinto enhance twiw features and improvements. Here's what's planned for the fu
-*   **v.0 - Encd Secuity & Logg**:
-    *   Implementation ofadvanced encrypion for comm
-    *   Detailed eventggin
+We are continuoslyorkinto enhance twiw features an$$
 
 
 
