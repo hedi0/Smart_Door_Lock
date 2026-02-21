@@ -82,18 +82,7 @@ Once compiled, you can run the `smart_lock` executable. The exact interaction wi
 
 ### Basic Execution
 
-To start the smart door lock system:
-
-```bash
-./smart_lock
-```
-
-Upon execution, the system might prompt you for actions or display its status.
-
-### Common Use Cases
-
-*   **Entering a PIN**: If the system supports PIN-based access, you might interact via the console:
-    ``
+To start the smart door lock syst
 
 
 
