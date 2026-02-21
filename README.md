@@ -117,8 +117,7 @@ We are continuously working to enhance the Smart Door Lock with new features and
     *   Development of a b-based or command-line interface for remote door control.
     *   User management features (remove users, change PINs).
 *   **v1.3.0 - Biometric Integration**:
-    *   Support for fingerprint or facial recognition modules.
-    *   Integration with popular IoT p
+    *   Support for fingerprint or facial recognition mo
 
 
 
