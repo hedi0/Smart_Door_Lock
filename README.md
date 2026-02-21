@@ -101,11 +101,7 @@ Upon execution, the system might prompt you for actions or display its status.
     ```
     [INFO] Door is currently locked.
     [EVENT] User 'hedi0' attempted access at 2023-10-27 10:30:00.
-    [WARNING] Unauthorized access attempt detected!
-    ```
-
-![Usage Screenhot](/usage_example.png)
-_Example onsole output during sys
+    [W
 
 
 
