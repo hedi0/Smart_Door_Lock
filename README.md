@@ -97,7 +97,7 @@ Upon execution, the system might prompt you for actions or display its status.
     Enter PIN: ****
     Access Granted!
     ```
-*   **Monitoring Status**: The system could continuously output its status or 
+*   **Monitoring Status**: The 
 
 
 
