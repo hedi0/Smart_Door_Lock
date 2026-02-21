@@ -112,7 +112,7 @@ We are continuously working to enhance the Smart Door Lock with new features and
 *   **v1.1.0 - Enhanced Security & Logging**:
     *   Implementation of advanced encryption for communication.
     *   Detailed event logging with timestamping and user IDs.
-    *   Brute-force attack detection and lockou   Development of a ommand-line interface for remote door control.
+    *   Brute-f
     *   User management features
 *   **v1.3.0 - Biometric Integration*
 
