@@ -105,8 +105,7 @@ Upon execution, the system might prompt you for actions or display its status.
     ```
 
 ![Usage Screenhot](/usage_example.png)
-_Example onsole output during system operat
-We are continuoslyorkinto enhance twiw features an$$
+_Example onsole output during sys
 
 
 
