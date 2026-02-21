@@ -41,19 +41,3 @@ sudo dnf install @development-tools gcc-c++ make
 # For macOS (with Homebrew)
 brew install gcc make
 ```
-
-### Manual Installation
-
-1.  **Clone the repository**:
-    Start by cloning the `Smart_Door_Lock` repository to your local machine using Git:
-
-    ```
-
-
-
-
-
-
-
-
-
