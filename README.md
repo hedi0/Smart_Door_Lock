@@ -57,11 +57,7 @@ brew install gcc make
 
     ```bash
     cd codes
-    ```
 
-3.  **Comp
-    g++ -o smart_lock main.cpp -Wall -Wextra # Add other .cpp ssary, e.g., g++ -o smart_lock main.cpp device.cpp user_manager.cpp 
-    
 
 
 
