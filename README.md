@@ -60,10 +60,8 @@ brew install gcc make
     ```
 
 3.  **Compile the source code**:
-    Use your C++ compiler to compile the project. Assuming a simple `main.cpp` and other `.cpp` files:
-
-    ```bash
-    g++ -o smart_lock main.cpp -Wall -Wextra # Add other .cpp files if necessary, e.g., g++ -o smart_lock main.cpp device.cpp user_manager.cpp -Wall -Wextra
+    Use your C++ compiler to compile the project. Assuming a simple `mai
+    g++ -o smart_lock main.cpp -Wall -Wextra # Add other .cpp ssary, e.g., g++ -o smart_lock main.cpp device.cpp user_manager.cpp -Wall -Wextra
     # Alternatively, if a Makefile is provided:
     
 
