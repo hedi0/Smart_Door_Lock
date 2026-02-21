@@ -70,19 +70,7 @@ brew install gcc make
     *Note: Adjust `main.cpp` and other source files as per the actual project structure within the `codes` directory.*
 
 4.  **Environment Configuration (Optional)**:
-    If your project requires specific environment variables or hardware drivers, ensure they are properly configured. For example, if interacting with specific GPIO pins or external sensors, you might need to set up permissions or install libraries.
-
-    ```bash
-    # Example: Granting executable permissions
-    chmod +x smart_lock
-    ```
-## 💡 Usage Examples
-
-Once compiled, you can run the `smart_lock` executable. The exact interaction will depend on the project's internal logic (e.g., command-line input, sensor simulation).
-
-### Basic Execution
-
-To start the smart door lock syst
+    If your project requires specific environment variables or hardware drivers, ensure they are properly configured. For example, if interacting with specific GPIO pins or external sensors, you might need to 
 
 
 
