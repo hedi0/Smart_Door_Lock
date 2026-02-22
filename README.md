@@ -20,7 +20,10 @@ fingerprint sensor for secure and automated access control.
 -   [Hardware Requirements](#-hardware-requirements)
 -   [Professional ASCII Wiring Schematic](#-professional-ascii-wiring-schematic)
 -   [Software Setup](#-software-setup)
-
+-   [Installation Guide](#-installation-guide)
+-   [Fingerprint Enrollment](#-fingerprint-enrollment)
+-   [System Operation](#-system-operation)
+-   [Configuration](#-configuration)
 
 
 
