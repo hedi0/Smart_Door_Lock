@@ -1,4 +1,4 @@
-# Smart Door Lock 🔒
+# 🔐 Smart Door Lock with Fingerprint
 
 An intelligent biometric door locking system using Arduino and a
 fingerprint sensor for secure and automated access control.
@@ -11,7 +11,7 @@ fingerprint sensor for secure and automated access control.
 
 ![Smart Door Lock Preview](/preview_example.png)
 
-# 🔐 Smart Door Lock with Fingerprint (Arduino)
+ (Arduino)
 
 
 
