@@ -12,8 +12,7 @@ An intelligent, secure, and user-friendly door locking system powered by C++.
 
 # 🔐 Smart Door Lock with Fingerprint (Arduino)
 
-An intelligent biometric door locking system using Arduino and a
-fingerprint sensor for secure and automated access control.
+
 
 ![Version](https://img.shields.io/badge/version-1.1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Arduino-orange)
