@@ -10,11 +10,10 @@ An intelligent, secure, and user-friendly door locking system powered by C++.
 
 ![Smart Door Lock Preview](/preview_example.png)
 
----
 
-## ✨ Features
 
-The Smart Door Lock p
+
+
 
 
 
