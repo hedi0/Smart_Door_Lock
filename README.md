@@ -15,7 +15,11 @@ fingerprint sensor for secure and automated access control.
 
 # 📋 Table of Contents
 
-
+-   [Overview](#-overview)
+-   [Features](#-features)
+-   [Hardware Requirements](#-hardware-requirements)
+-   [Professional ASCII Wiring Schematic](#-professional-ascii-wiring-schematic)
+-   [Software Setup](#-software-setup)
 
 
 
