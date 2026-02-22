@@ -33,10 +33,7 @@ Ensure you have a C++ compiler (like `g++`) and `make` installed on your system.
 ```bash
 # For Debian/Ubuntu
 sudo apt update
-sudo apt install build-essential g++ make
-
-# For Fedora
-sudo dnf install @development-tools gcc-c++ make
+sudo apt install build-essentil
 
 
 
