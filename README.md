@@ -14,7 +14,7 @@ An intelligent, secure, and user-friendly door locking system powered by C++.
 
 ## ✨ Features
 
-The Smart Door Lock project offers a robust solution for modern access control, focusing on security, convenience, and expandability.
+The Smart Door Lock project offers a robust solution for control, focusing on security, convenience, and expandability.
 
 *   🔐 **Secure Access Control**:
 *   🔔 **Real-time Notifications**
