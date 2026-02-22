@@ -22,11 +22,9 @@ The Smart Door Lock project offers a robust solution for modern access control, 
 *   ⚡ **Efficient Performance**: Optimized C++ code ensures quick response times and reliable operation, even in resource-constrained environments.
 *   🛠️ **Easy Configuration**: Simple setup and configuration process to get your smart lock up and running with minimal effort.
 
-## 🚀 Installation Guide
+## 🚀 Installati
+Follow these ss to set up and run the Smart Door Lock proj
 
-Follow these steps to set up and run the Smart Door Lock project on your zz
-
-Ensure ys
 
 
 
