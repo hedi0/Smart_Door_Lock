@@ -38,6 +38,17 @@ sudo apt install build-essential g++ make
 # For Fedora
 sudo dnf install @development-tools gcc-c++ make
 
-# For macOS (with Homebrew)
-brew install gcc make
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
