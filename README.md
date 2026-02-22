@@ -26,7 +26,7 @@ The Smart Door Lock project offers a robust solution for modern access control, 
 
 Follow these steps to set up and run the Smart Door Lock project on your zz
 
-Ensure you have a C++ compiler (like `g++`) and `make` installed on a
+Ensure ys
 
 
 
