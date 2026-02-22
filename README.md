@@ -11,11 +11,6 @@ fingerprint sensor for secure and automated access control.
 
 ![Smart Door Lock Preview](/preview_example.png)
 
- (Arduino)
-
-
-
-
 ------------------------------------------------------------------------
 
 # 📋 Table of Contents
