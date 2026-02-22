@@ -18,8 +18,7 @@ The Smart Door Lock project offers a robust solution for modern access control, 
 
 *   🔐 **Secure Access Control**: Implements strong authentication mechanisms to ensure only authorized users can access the premises.
 *   🔔 **Real-time Notifications**: Provides instant alerts for access events, unauthorized attempts, or system status changes.
-*   ⚙️ **Modular Design**: Built with a flexible architecture, allowing for easy integration with various hardware components and future expansions.
-*   ⚡ **Efficient Performance**: Optimized C++ code ens
+*   ⚙️ **Modular Design**: Built with a flexible architecture, allowing for easy integration with various hardware components and future ex
 
 
 
