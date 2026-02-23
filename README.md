@@ -49,7 +49,9 @@ fingerprint authentication and automatically locks after a timeout.
 
 ------------------------------------------------------------------------
 
-# 🔧 Hardwa
+# 🔧 Hardware Requirements
+
+  Component
 
 
 
