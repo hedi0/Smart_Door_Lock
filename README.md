@@ -59,7 +59,9 @@ fingerprint authentication and automatically locks after a timeout.
   5V Relay Module             1
   Green LED                   1
   Red LED                     1
-  220Ω Re
+  220Ω Resistors              2
+  Jumper Wires                Several
+  12V Exter
 
 
 
