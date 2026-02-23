@@ -45,7 +45,11 @@ fingerprint authentication and automatically locks after a timeout.
 -   🟢 Access granted indicator (Green LED)
 -   🔴 Access denied indicator (Red LED)
 -   ⏱ Auto-lock system
--   🧩 Expandable archit
+-   🧩 Expandable architecture
+
+------------------------------------------------------------------------
+
+# 🔧 Hardwa
 
 
 
