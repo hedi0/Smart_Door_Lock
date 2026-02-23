@@ -33,7 +33,8 @@ fingerprint sensor for secure and automated access control.
 # 🌟 Overview
 
 The Smart Door Lock is a biometric access control system built using
-Arduino and an R307 fingerprint sen
+Arduino and an R307 fingerprint sensor. It allows secure entry using
+fingerprint authentication and aut
 
 
 
