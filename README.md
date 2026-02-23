@@ -40,7 +40,9 @@ fingerprint authentication and automatically locks after a timeout.
 
 # ✨ Features
 
--   🔐 Fingerprint aut
+-   🔐 Fingerprint authentication
+-   👥 Multi-user support
+-   🟢 Access granted 
 
 
 
