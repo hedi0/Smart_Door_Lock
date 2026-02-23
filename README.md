@@ -137,6 +137,7 @@ cd Smart_Door_Lock/codes
 2.  Select Board → Arduino Uno
 3.  Select correct COM port
 4.  Click Upload
+5.  Open Serial Monitor (9600 baud)
 
 
 
