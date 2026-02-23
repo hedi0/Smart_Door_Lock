@@ -109,6 +109,14 @@ fingerprint authentication and automatically locks after a timeout.
 
 ------------------------------------------------------------------------
 
+# 💻 Software Setup
+
+## Required Software
+
+-   Arduino IDE
+
+## Required Libraries
+
 
 
 
