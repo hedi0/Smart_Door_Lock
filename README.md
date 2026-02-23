@@ -25,6 +25,7 @@ fingerprint sensor for secure and automated access control.
 -   [System Operation](#-system-operation)
 -   [Configuration](#-configuration)
 -   [Troubleshooting](#-troubleshooting)
+-   [Project Roadmap](#-project-roadmap)
 
 
 
