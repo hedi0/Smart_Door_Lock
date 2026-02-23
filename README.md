@@ -66,7 +66,7 @@ fingerprint authentication and automatically locks after a timeout.
 ⚠️ Important: Do NOT power the solenoid directly from Arduino.
 
 ------------------------------------------------------------------------
-
+``` ```
 # 🔌 Professional ASCII Wiring Schematic
 
                         +12V External Supply
