@@ -135,6 +135,7 @@ cd Smart_Door_Lock/codes
 
 1.  Open `.ino` file in Arduino IDE
 2.  Select Board → Arduino Uno
+3.  Select correct COM port
 
 
 
