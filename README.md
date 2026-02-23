@@ -55,7 +55,9 @@ fingerprint authentication and automatically locks after a timeout.
   --------------------------- ----------
   Arduino Uno / Nano          1
   R307 Fingerprint Sensor     1
-  12V Soleno
+  12V Solenoid Lock           1
+  5V Relay Module             1
+  Green
 
 
 
