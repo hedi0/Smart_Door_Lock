@@ -117,6 +117,11 @@ fingerprint authentication and automatically locks after a timeout.
 
 ## Required Libraries
 
+Install via Arduino IDE → Library Manager: - Adafruit Fingerprint Sensor
+Library - SoftwareSerial
+
+------------------------------------------------------------------------
+
 
 
 
