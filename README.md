@@ -134,7 +134,7 @@ cd Smart_Door_Lock/codes
 ## Upload Steps
 
 1.  Open `.ino` file in Arduino IDE
-
+2.  Select Board → Arduino Uno
 
 
 
