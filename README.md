@@ -42,7 +42,8 @@ fingerprint authentication and automatically locks after a timeout.
 
 -   🔐 Fingerprint authentication
 -   👥 Multi-user support
--   🟢 Access granted 
+-   🟢 Access granted indicator (Green LED)
+-   🔴 Access denied indicator (Red 
 
 
 
