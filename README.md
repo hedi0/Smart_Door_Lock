@@ -127,6 +127,9 @@ Library - SoftwareSerial
 ## Clone Repository
 
 ```bash
+git clone https://github.com/hedi0/Smart_Door_Lock.git
+cd Smart_Door_Lock/codes
+```
 
 
 
