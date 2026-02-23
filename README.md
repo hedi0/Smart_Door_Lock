@@ -57,7 +57,9 @@ fingerprint authentication and automatically locks after a timeout.
   R307 Fingerprint Sensor     1
   12V Solenoid Lock           1
   5V Relay Module             1
-  Green
+  Green LED                   1
+  Red LED                     1
+  220Ω Re
 
 
 
