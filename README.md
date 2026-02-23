@@ -51,7 +51,10 @@ fingerprint authentication and automatically locks after a timeout.
 
 # 🔧 Hardware Requirements
 
-  Component
+  Component                   Quantity
+  --------------------------- ----------
+  Arduino Uno / Nano          1
+ 
 
 
 
