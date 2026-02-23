@@ -131,6 +131,11 @@ git clone https://github.com/hedi0/Smart_Door_Lock.git
 cd Smart_Door_Lock/codes
 ```
 
+## Upload Steps
+
+1.  Open `.ino` file in Arduino IDE
+
+
 
 
 
