@@ -30,6 +30,9 @@ fingerprint sensor for secure and automated access control.
 
 ------------------------------------------------------------------------
 
+# 🌟 Overview
+
+The Smart Door Lock is a biometric
 
 
 
