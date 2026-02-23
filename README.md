@@ -67,7 +67,48 @@ fingerprint authentication and automatically locks after a timeout.
 
 ------------------------------------------------------------------------
 
-# 🔌 Professional AS
+# 🔌 Professional ASCII Wiring Schematic
+
+                        +12V External Supply
+                             (+)        (-)
+                              |          |
+                              |          |
+                         ┌────▼──────────▼────┐
+                         │      Relay Module   │
+                         │  VCC  GND  IN  COM  │
+                         │   |    |    |    |   │
+                         └───┼────┼────┼────┼───┘
+                             |    |    |    |
+                             |    |    |    └───── NO ──────┐
+                             |    |    |                     |
+                             |    |    └──────── Pin 8       |
+                             |    |                          |
+                             |    └──────────── GND          |
+                             |                               |
+                             |                           ┌───▼───────┐
+                             |                           │ Solenoid  │
+                             |                           │   Lock    │
+                             |                           └───────────┘
+                             |
+                    ┌────────▼────────┐
+                    │   Arduino Uno   │
+                    │                  │
+                    │ Pin 2  ← TX     │
+                    │ Pin 3  → RX     │
+                    │ Pin 8  → Relay  │
+                    │ Pin 9  → Green LED ──[220Ω]──►│── GND
+                    │ Pin10  → Red LED   ──[220Ω]──►│── GND
+                    │ GND    ───────────────┐
+                    └────────┬──────────────┘
+                             |
+                             |
+                   ┌─────────▼─────────┐
+                   │ Fingerprint Sensor│
+                   │   VCC  TX  RX GND │
+                   └───────────────────┘
+
+------------------------------------------------------------------------
+
 
 
 
