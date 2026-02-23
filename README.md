@@ -61,7 +61,11 @@ fingerprint authentication and automatically locks after a timeout.
   Red LED                     1
   220Ω Resistors              2
   Jumper Wires                Several
-  12V Exter
+  12V External Power Supply   1
+
+⚠️ Important: Do NOT power the solenoid directly from Arduino.
+
+--------------
 
 
 
