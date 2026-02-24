@@ -165,6 +165,9 @@ cd Smart_Door_Lock/codes
 -   Red LED ON
 -   Door remains locked
 
+------------------------------------------------------------------------
+
+# ⚙️ C
 
 
 
