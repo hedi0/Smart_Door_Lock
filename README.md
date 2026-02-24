@@ -169,7 +169,9 @@ cd Smart_Door_Lock/codes
 
 # ⚙️ Configuration
 
-Change
+Change unlock time in code:
+
+``` cp
 
 
 
