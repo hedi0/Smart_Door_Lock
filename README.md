@@ -149,6 +149,9 @@ cd Smart_Door_Lock/codes
 3.  Follow instructions in Serial Monitor
 4.  Re-upload Smart Door Lock code
 
+------------------------------------------------------------------------
+
+# 🔄 Sy
 
 
 
