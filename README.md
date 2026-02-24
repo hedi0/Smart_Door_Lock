@@ -147,6 +147,7 @@ cd Smart_Door_Lock/codes
     Enroll
 2.  Upload example
 3.  Follow instructions in Serial Monitor
+4.  Re-upload Smart Door Lock code
 
 
 
