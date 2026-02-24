@@ -179,7 +179,8 @@ Change pin definitions:
 
 ``` cpp
 #define SOLENOID_PIN 8
-#define GREEN_LE
+#define GREEN_LED 9
+#define RED_LE
 
 
 
