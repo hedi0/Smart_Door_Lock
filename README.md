@@ -187,7 +187,8 @@ Change pin definitions:
 
 # 🔍 Troubleshooting
 
-  Probl
+  Problem               Solution
+  -----
 
 
 
