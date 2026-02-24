@@ -171,7 +171,9 @@ cd Smart_Door_Lock/codes
 
 Change unlock time in code:
 
-``` cp
+``` cpp
+#define UNLOCK_TIME 3000
+```
 
 
 
