@@ -191,7 +191,8 @@ Change pin definitions:
   --------------------- ------------------------------
   Sensor not detected   Check RX/TX wiring
   Door not unlocking    Check relay & 12V power
-  Alway
+  Always denied         Ensure fingerprints enrolled
+  A
 
 
 
