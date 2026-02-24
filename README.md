@@ -144,9 +144,6 @@ cd Smart_Door_Lock/codes
 # 👤 Fingerprint Enrollment
 
 
-fdgfdgfdgsfg
-
-
 
 
 
