@@ -156,7 +156,8 @@ cd Smart_Door_Lock/codes
 ## Access Granted
 
 -   Green LED ON
--   R
+-   Relay activates
+-   So
 
 
 
