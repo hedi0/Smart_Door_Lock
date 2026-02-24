@@ -155,7 +155,8 @@ cd Smart_Door_Lock/codes
 
 ## Access Granted
 
--   G
+-   Green LED ON
+-   R
 
 
 
