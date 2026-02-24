@@ -162,7 +162,7 @@ cd Smart_Door_Lock/codes
 
 ## Access Denied
 
-
+-   Red LED ON
 
 
 
