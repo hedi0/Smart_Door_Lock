@@ -188,7 +188,8 @@ Change pin definitions:
 # 🔍 Troubleshooting
 
   Problem               Solution
-  -----
+  --------------------- ------------------------------
+  Senso
 
 
 
