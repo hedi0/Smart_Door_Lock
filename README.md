@@ -145,7 +145,8 @@ cd Smart_Door_Lock/codes
 
 1.  Go to Arduino IDE → File → Examples → Adafruit Fingerprint Sensor →
     Enroll
-
+2.  Upload example
+3.  Fo
 
 
 
