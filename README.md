@@ -190,7 +190,8 @@ Change pin definitions:
   Problem               Solution
   --------------------- ------------------------------
   Sensor not detected   Check RX/TX wiring
-  Door 
+  Door not unlocking    Check relay & 12V power
+  Alway
 
 
 
