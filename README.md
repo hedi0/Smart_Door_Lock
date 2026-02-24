@@ -157,7 +157,7 @@ cd Smart_Door_Lock/codes
 
 -   Green LED ON
 -   Relay activates
--   So
+-   Solenoid unlocks for 3 seconds
 
 
 
