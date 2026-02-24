@@ -178,7 +178,8 @@ Change unlock time in code:
 Change pin definitions:
 
 ``` cpp
-#define SOLENOID_P
+#define SOLENOID_PIN 8
+#define GREEN_LE
 
 
 
