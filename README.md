@@ -177,5 +177,8 @@ Change unlock time in code:
 
 Change pin definitions:
 
+``` cpp
+#define SOLENOID_P
+
 
 
