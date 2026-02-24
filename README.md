@@ -160,7 +160,9 @@ cd Smart_Door_Lock/codes
 -   Solenoid unlocks for 3 seconds
 -   Door auto-locks
 
-## A
+## Access Denied
+
+
 
 
 
