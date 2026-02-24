@@ -189,7 +189,8 @@ Change pin definitions:
 
   Problem               Solution
   --------------------- ------------------------------
-  Senso
+  Sensor not detected   Check RX/TX wiring
+  Door 
 
 
 
