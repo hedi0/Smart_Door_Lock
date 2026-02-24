@@ -175,5 +175,7 @@ Change unlock time in code:
 #define UNLOCK_TIME 3000
 ```
 
+Change pin definitions:
+
 
 
