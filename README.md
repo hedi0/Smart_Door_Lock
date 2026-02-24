@@ -153,7 +153,9 @@ cd Smart_Door_Lock/codes
 
 # 🔄 System Operation
 
-## Acce
+## Access Granted
+
+-   G
 
 
 
