@@ -143,6 +143,7 @@ cd Smart_Door_Lock/codes
 
 # 👤 Fingerprint Enrollment
 
+1.  Go to Arduino IDE → File → Examples
 
 
 
