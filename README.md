@@ -193,7 +193,8 @@ Change pin definitions:
   Door not unlocking    Check relay & 12V power
   Always denied         Ensure fingerprints enrolled
   Arduino resets        Use proper external supply
-  
+  --------------------- ------------------------------
+
 ------------------------------------------------------------------------
 
 
