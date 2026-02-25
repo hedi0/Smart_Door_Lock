@@ -202,5 +202,6 @@ Change pin definitions:
 -   LCD display integration
 -   Keypad backup authentication
 -   Bluetooth unlock
--   WiFi IoT integ
+-   WiFi IoT integration
+-   Access lo
 
