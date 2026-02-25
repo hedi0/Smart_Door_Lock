@@ -185,3 +185,14 @@ Set baud rate to **9600**.
 
 ------------------------------------------------------------------------
 
+# ⚙️ Configuration
+
+Modify in code:
+
+``` cpp
+#define UNLOCK_TIME 3000
+#define SOLENOID_PIN 8
+#define GREEN_LED 9
+#define RED_LED 10
+```
+
