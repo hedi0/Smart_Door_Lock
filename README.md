@@ -133,3 +133,11 @@ learners - Smart home prototypes - Security system experiments
 
 ## 1️⃣ Clone Repository
 
+``` bash
+git clone https://github.com/hedi0/Smart_Door_Lock.git
+cd Smart_Door_Lock/codes
+```
+
+## 2️⃣ Open in Arduino IDE
+
+Open `code.ino`.
