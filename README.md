@@ -200,5 +200,6 @@ Change pin definitions:
 # 🗺️ Project Roadmap
 
 -   LCD display integration
--   Keypad backup au
+-   Keypad backup authentication
+-   Bluetooth unloc
 
