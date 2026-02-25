@@ -204,6 +204,3 @@ Change pin definitions:
 -   Bluetooth unlock
 -   WiFi IoT integration
 -   Access logging system
-
-------------------------------------------------------------------------
-
