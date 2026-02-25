@@ -118,3 +118,11 @@ learners - Smart home prototypes - Security system experiments
                    │ VCC TX RX GND   │
                    └─────────────────┘
 
+------------------------------------------------------------------------
+
+# 💻 Software Requirements
+
+-   Arduino IDE (1.8.x or newer)
+-   Libraries:
+    -   Adafruit Fingerprint Sensor Library
+    -   SoftwareSerial (built-in)
