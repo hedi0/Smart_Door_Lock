@@ -201,3 +201,9 @@ Modify in code:
 # 🔐 Security Considerations
 
 -   Use secure enclosure for electronics
+-   Protect wiring from tampering
+-   Consider adding:
+    -   Buzzer alarm
+    -   Attempt counter lockout
+    -   Logging system
+
