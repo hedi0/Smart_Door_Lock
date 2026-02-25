@@ -199,4 +199,5 @@ Change pin definitions:
 
 # 🗺️ Project Roadmap
 
+-   LCD display inte
 
