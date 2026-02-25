@@ -209,5 +209,7 @@ Change pin definitions:
 
 # 📜 License
 
-Licensed under
+Licensed under Apache License 2.0.
+
+-------------
 
