@@ -205,5 +205,7 @@ Change pin definitions:
 -   WiFi IoT integration
 -   Access logging system
 
--------------
+------------------------------------------------------------------------
+
+# 📜 Lice
 
