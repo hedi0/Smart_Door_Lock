@@ -217,5 +217,9 @@ Modify in code:
   Door not unlocking    Check 12V supply
   Constant denial       Enroll fingerprints
   Random reset          Use stable power supply
-hedi0
+
+------------------------------------------------------------------------
+
+# 🚀 Future Improvements
+
 
