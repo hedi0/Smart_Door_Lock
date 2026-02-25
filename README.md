@@ -158,3 +158,14 @@ Set baud rate to **9600**.
 
 ------------------------------------------------------------------------
 
+# 👤 Fingerprint Enrollment
+
+1.  Open Arduino IDE
+2.  Go to: File → Examples → Adafruit Fingerprint Sensor → enroll
+3.  Upload example sketch
+4.  Open Serial Monitor (57600 baud)
+5.  Follow prompts to enroll fingerprints
+6.  Re-upload main project code
+
+------------------------------------------------------------------------
+
