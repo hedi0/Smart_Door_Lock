@@ -141,3 +141,20 @@ cd Smart_Door_Lock/codes
 ## 2️⃣ Open in Arduino IDE
 
 Open `code.ino`.
+
+
+## 3️⃣ Select Board & Port
+
+-   Tools → Board → Arduino Uno
+-   Tools → Port → Select correct COM port
+
+## 4️⃣ Upload
+
+Click **Upload** and wait for completion.
+
+## 5️⃣ Open Serial Monitor
+
+Set baud rate to **9600**.
+
+------------------------------------------------------------------------
+
