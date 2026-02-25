@@ -169,3 +169,19 @@ Set baud rate to **9600**.
 
 ------------------------------------------------------------------------
 
+# 🔄 System Operation
+
+## Access Granted
+
+-   Green LED ON
+-   Relay activates
+-   Solenoid unlocks
+-   Auto-lock after timeout
+
+## Access Denied
+
+-   Red LED ON for 1 second
+-   Door remains locked
+
+------------------------------------------------------------------------
+
