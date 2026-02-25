@@ -222,4 +222,10 @@ Modify in code:
 
 # 🚀 Future Improvements
 
+-   LCD display integration
+-   Keypad backup
+-   Bluetooth unlock
+-   WiFi cloud logging
+-   SD card event storage
+
 
