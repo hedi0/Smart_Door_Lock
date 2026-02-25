@@ -213,8 +213,4 @@ Licensed under Apache License 2.0.
 
 ------------------------------------------------------------------------
 
-# 👨‍💻 Author
-
-Developed by hedi0
-
-
+# 👨‍💻 A
