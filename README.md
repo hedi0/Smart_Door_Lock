@@ -207,5 +207,7 @@ Change pin definitions:
 
 ------------------------------------------------------------------------
 
-# 📜 Lice
+# 📜 License
+
+Licensed under
 
