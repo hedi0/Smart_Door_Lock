@@ -196,3 +196,8 @@ Modify in code:
 #define RED_LED 10
 ```
 
+------------------------------------------------------------------------
+
+# 🔐 Security Considerations
+
+-   Use secure enclosure for electronics
