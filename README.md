@@ -203,5 +203,7 @@ Change pin definitions:
 -   Keypad backup authentication
 -   Bluetooth unlock
 -   WiFi IoT integration
--   Access lo
+-   Access logging system
+
+-------------
 
