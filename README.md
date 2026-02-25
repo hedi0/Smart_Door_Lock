@@ -199,5 +199,6 @@ Change pin definitions:
 
 # 🗺️ Project Roadmap
 
--   LCD display inte
+-   LCD display integration
+-   Keypad backup au
 
