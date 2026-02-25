@@ -126,3 +126,10 @@ learners - Smart home prototypes - Security system experiments
 -   Libraries:
     -   Adafruit Fingerprint Sensor Library
     -   SoftwareSerial (built-in)
+
+------------------------------------------------------------------------
+
+# 🚀 Installation Guide
+
+## 1️⃣ Clone Repository
+
