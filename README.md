@@ -71,17 +71,17 @@ learners - Smart home prototypes - Security system experiments
 
 # 🔧 Hardware Requirements
 
-  Component                 Quantity   Notes
-  ------------------------- ---------- -------------------------
-  Arduino Uno / Nano        1          5V compatible
-  R307 Fingerprint Sensor   1          UART interface
-  12V Solenoid Lock         1          Fail-secure recommended
-  5V Relay Module           1          1-channel
-  Green LED                 1          220Ω resistor required
-  Red LED                   1          220Ω resistor required
-  12V DC Adapter            1          ≥1A
-  Jumper Wires              several    
-  USB Cable                 1          Arduino programming
+| Component                | Quantity | Notes                     |
+|--------------------------|----------|----------------------------|
+| Arduino Uno / Nano      | 1        | 5V compatible              |
+| R307 Fingerprint Sensor  | 1        | UART interface             |
+| 12V Solenoid Lock        | 1        | Fail-secure recommended    |
+| 5V Relay Module          | 1        | 1-channel                  |
+| Green LED                | 1        | 220Ω resistor required     |
+| Red LED                  | 1        | 220Ω resistor required     |
+| 12V DC Adapter           | 1        | ≥1A                        |
+| Jumper Wires             | Several  | —                          |
+| USB Cable                | 1        | Arduino programming        |
 
 ⚠️ Never power the solenoid directly from Arduino.
 
