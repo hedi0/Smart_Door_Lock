@@ -211,7 +211,8 @@ Modify in code:
 
 # 🔍 Troubleshooting
 
-| Issue             -|---------------------------|
+| Issue               | Solution                  |
+|---------------------|---------------------------|
 | Sensor not detected | Swap RX/TX                |
 | Door not unlocking  | Check 12V supply          |
 | Constant denial     | Enroll fingerprints       |
