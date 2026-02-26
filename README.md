@@ -211,12 +211,8 @@ Modify in code:
 
 # 🔍 Troubleshooting
 
-  Issue                 Solution
-  --------------------- -------------------------
-  Sensor not detected   Swap RX/TX
-  Door not unlocking    Check 12V supply
-  Constant denial       Enroll fingerprints
-  Random reset          Use stable power supply
+|
+| Random reset        | Use stable power supply   |
 
 ------------------------------------------------------------------------
 
