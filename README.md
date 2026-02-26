@@ -212,6 +212,7 @@ Modify in code:
 # 🔍 Troubleshooting
 
 
+| Door not unlocking  | Check 12V supply          |
 | Constant denial     | Enroll fingerprints       |
 | Random reset        | Use stable power supply   |
 
