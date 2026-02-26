@@ -211,7 +211,8 @@ Modify in code:
 
 # 🔍 Troubleshooting
 
-|
+
+| Constant denial     | Enroll fingerprints       |
 | Random reset        | Use stable power supply   |
 
 ------------------------------------------------------------------------
