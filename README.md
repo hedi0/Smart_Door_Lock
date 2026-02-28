@@ -1,9 +1,9 @@
 # 🔐 Smart Door Lock with Fingerprint
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/hedi0/Smart_Door_Lock/releases)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Arduino-orange)](https://www.arduino.cc/)
-[![Language](https://img.shields.io/badge/language-C%2B%2B-blue)](https://www.arduino.cc/)
+![License](https://img.shields.io/badge/license/Smart_DustBin-green)
+![Stars](https://img.shields.io/github/stars/hedi0/Smart_DustBin?style=social)
+![Forks](https://img.shields.io/github/forks/hedi0/Smart_DustBin?style=social)
 
 A professional biometric access control system built using **Arduino**
 and an **R307 fingerprint sensor**. Secure your door with fingerprint
