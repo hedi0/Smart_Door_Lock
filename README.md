@@ -9,6 +9,8 @@ A professional biometric access control system built using **Arduino**
 and an **R307 fingerprint sensor**. Secure your door with fingerprint
 authentication and automatic relocking.
 
+![example-preview-image](/images/preview_example.png)
+
 ------------------------------------------------------------------------
 
 # 📋 Table of Contents
