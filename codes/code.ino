@@ -1,10 +1,4 @@
-```cpp
-/**
- * Smart Door Lock with Fingerprint
- * ---------------------------------
- * Uses R307 fingerprint sensor to control a solenoid lock via relay.
- * Features: multi‑user support, visual indicators, auto‑lock.
- * 
+
  * For enrollment, use the Adafruit "enroll" example sketch first.
  * 
  * Pins:
@@ -12,25 +6,21 @@
  *   - Relay: Pin 8
  *   - Green LED: Pin 9
  *   - Red LED: Pin 10
- * 
- * Configuration constants are defined below.
- */
 
 #include <Adafruit_Fingerprint.h>
 #include <SoftwareSerial.h>
 
 // ===================== Configuration =====================
-// Unlock duration in milliseconds (adjust as needed)
-#define UNLOCK_TIME         3000UL
+#define UNLOCK_TIME 3000UL
 
 // Pin assignments
-#define SOLENOID_PIN        8
-#define GREEN_LED_PIN        9
-#define RED_LED_PIN         10
+#define SOLENOID_PIN 8
+#define GREEN_LED_PIN 9
+#define RED_LED_PIN 10
 
 // Fingerprint sensor UART pins
-#define FINGERPRINT_RX_PIN  2   // Arduino RX → sensor TX
-#define FINGERPRINT_TX_PIN  3   // Arduino TX → sensor RX
+#define FINGERPRINT_RX_PIN 2   // Arduino RX → sensor TX
+#define FINGERPRINT_TX_PIN   3   // Arduino TX → sensor RX
 
 // ===================== Global Objects =====================
 SoftwareSerial fingerSerial(FINGERPRINT_RX_PIN, FINGERPRINT_TX_PIN);
